@@ -119,11 +119,11 @@
     .contact-form {width: 100%; }
     
     .btn:link,
-.btn:visited { margin-left: 7px;
+.btn:visited { margin-left: 0px;
     }
     
       .btn:link,
-.btn:visited { padding:10px 15px;}
+.btn:visited { padding:10px 10px;}
     
     
     .long-para {margin-bottom: 20px;}
